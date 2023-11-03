@@ -4,9 +4,10 @@
 
 
 ## About me 📖
-I'm a senior at Vanderbilt University majoring in Computer Science and Economics. Aspring to be a software engineer, I hope to maximize the potential that software and technology has to make the world a better place.
+I'm a senior at Vanderbilt University majoring in Computer Science and Economics. Aspiring to be a software engineer, I hope to maximize the potential that software and technology has to make the world a better place.
 
 
 ## Contact me 📬
 Email: jack.zhang@vanderbilt.edu <br />
 Phone: +1 847-910-3231
+Website: https://www.jzjackjz.com/
