@@ -9,5 +9,5 @@ I'm a senior at Vanderbilt University majoring in Computer Science and Economics
 
 ## Contact me 📬
 Email: jack.zhang@vanderbilt.edu <br />
-Phone: +1 847-910-3231
+Phone: +1 847-910-3231 <br />
 Website: https://www.jzjackjz.com/
